@@ -1,3 +1,3 @@
-# TODO PROJECT
+# TO-DO PROJECT
 
-created by Aditi Jain
+created by Aditi Jain.
