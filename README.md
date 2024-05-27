@@ -1,3 +1,3 @@
-# TO-DO PROJECT
+# TO-DO App
 
 created by Aditi Jain.
